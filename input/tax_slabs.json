@@ -1,0 +1,17 @@
+{"tax_slabs" :  
+    [{"slab_start": 0.00, 
+      "slab_end"  : 18200.00, 
+      "tax_pct"   : 0.00}, 
+     {"slab_start": 18200.00, 
+      "slab_end"  : 37000.00, 
+      "tax_pct"   : 19.00}, 
+     {"slab_start": 37000.00, 
+      "slab_end"  : 90000.00, 
+      "tax_pct"   : 32.50}, 
+     {"slab_start": 90000.00, 
+      "slab_end"  : 180000.00,
+      "tax_pct"   : 37.00}, 
+     {"slab_start": 180000.00, 
+      "slab_end"  : 999999.99,
+      "tax_pct"   : 45.00}]
+}
